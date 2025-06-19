@@ -1,4 +1,19 @@
-<h3 align="left"># Hi, I'm Jonathan Manuel Llanos Ruiz, but you can call me Tathan Llanos! 👋<br><br>## About Me<br>I'm a technologist in software analysis and development, and in the supervision of electrical distribution networks. I'm also a passionate autodidact, always looking to learn new things (including how to cook the best gourmet pasta dish!).<br><br>## What I Do<br>- 💻 Software Development (Yes, I'm that guy who speaks in hieroglyphic-like languages)<br>- 🔌 Supervision of Electrical Networks (I literally keep the lights on)<br>- 🍽️ Courses and Diplomas in Gastronomy (Watch out, MasterChef, here I come!)<br>- 📚 Customer Service and Administration (Because being a multitasker is my thing)<br><br>## Projects<br>I love learning and exploring new areas. From programming to gastronomy, I'm always on the lookout for new challenges.<br><br>## Interests<br>- ✈️ Traveling and discovering new places (Yes, I have more frequent flyer miles than a pilot)<br>- 🌍 Exploring local culture (The real town-to-town tourism)<br>- 🧙‍♂️ Playing World of Warcraft (I always choose mages and warlocks because magic makes everything more fun)</h3>
+<h3 align="left">
+# Hi, I'm Jonathan Manuel Llanos Ruiz, but you can call me Tathan Llanos!<br><br>
+## About Me<br>
+I'm a technologist in software analysis and development, and in the supervision of electrical distribution networks. I'm also a passionate autodidact, constantly seeking to learn new things (including how to cook the best gourmet pasta dish!).<br><br>
+## What I Do<br>
+- 💻 Software development: I'm that guy who speaks in code that looks like ancient scripts.<br>
+- 🔌 Supervision of electrical networks: I keep the lights on, no blackout here!<br>
+- 🍽️ Courses and diplomas in gastronomy: mastering the art of culinary creation.<br>
+- 📚 Customer service and administration: because being a multitasker is my strength.<br><br>
+## Projects<br>
+I thrive on exploring new areas, from developing a web app for local businesses to perfecting a signature pasta dish in gastronomy courses. I'm constantly seeking new challenges.<br><br>
+## Interests<br>
+- ✈️ Traveling and discovering new places: I have more frequent flyer miles than a pilot!<br>
+- 🌍 Exploring local culture: diving into authentic community experiences.<br>
+- 🧙‍♂️ Playing World of Warcraft: I always choose mages and warlocks because magic makes everything more fun.<br>
+</h3>
 
 ###
 
