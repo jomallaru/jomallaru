@@ -1,18 +1,22 @@
 <h3 align="left">
-# Hi, I'm Jonathan Manuel Llanos Ruiz, but you can call me Tathan Llanos!<br><br>
+# Hi, I'm Jonathan Manuel Llanos Ruiz — but you can call me Tathan Llanos!<br><br>
+
 ## About Me<br>
-I'm a Systems Engineer with solid experience in software development and data analysis. I'm a passionate autodidact, constantly seeking to learn new things (including how to cook the best gourmet pasta dish!).<br><br>
+I'm a Systems Engineer with strong experience in software development and data analysis. A lifelong learner and self-starter, I’m always exploring new skills — whether in tech or in the kitchen (yes, I make a mean gourmet pasta!).<br><br>
+
 ## What I Do<br>
-- 💻 Software development: building web applications and solutions tailored to business needs.<br>
-- 📊 Data analysis: transforming data into valuable insights for decision-making.<br>
-- 🍽️ Courses and diplomas in gastronomy: mastering the art of culinary creation.<br>
-- 📚 Customer service and administration: because being a multitasker is my strength.<br><br>
+- 💻 Software Development: designing and building web applications tailored to real business needs.<br>
+- 📊 Data Analysis: turning raw data into actionable insights that drive smarter decisions.<br>
+- 🍽️ Culinary Arts: enhancing my creativity through courses and diplomas in gastronomy.<br>
+- 📚 Customer Service & Administration: balancing tech expertise with people-focused skills.<br><br>
+
 ## Projects<br>
-I thrive on exploring new areas, from developing a web app for local businesses to creating dashboards for data visualization. I'm constantly seeking new challenges.<br><br>
+I enjoy taking on challenges that combine creativity and technology — from developing web apps for small businesses to designing data visualization dashboards. Every project is an opportunity to learn and grow.<br><br>
+
 ## Interests<br>
-- ✈️ Traveling and discovering new places: I have more frequent flyer miles than a pilot!<br>
-- 🌍 Exploring local culture: diving into authentic community experiences.<br>
-- 🧙‍♂️ Playing World of Warcraft: I always choose mages and warlocks because magic makes everything more fun.<br>
+- ✈️ Traveling & discovering new places: collecting memories (and miles!) along the way.<br>
+- 🌍 Experiencing local culture: immersing myself in authentic community life.<br>
+- 🧙‍♂️ Gaming: especially World of Warcraft — where I’ll always pick mages and warlocks, because who doesn’t love a little magic?<br>
 </h3>
 
 ###
