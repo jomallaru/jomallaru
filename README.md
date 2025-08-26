@@ -7,7 +7,6 @@ I'm a Systems Engineer with strong experience in software development and data a
 ## What I Do<br>
 - 💻 Software Development: designing and building web applications tailored to real business needs.<br>
 - 📊 Data Analysis: turning raw data into actionable insights that drive smarter decisions.<br>
-- 🍽️ Culinary Arts: enhancing my creativity through courses and diplomas in gastronomy.<br>
 - 📚 Customer Service & Administration: balancing tech expertise with people-focused skills.<br><br>
 
 ## Projects<br>
@@ -16,6 +15,7 @@ I enjoy taking on challenges that combine creativity and technology — from dev
 ## Interests<br>
 - ✈️ Traveling & discovering new places: collecting memories (and miles!) along the way.<br>
 - 🌍 Experiencing local culture: immersing myself in authentic community life.<br>
+- 🍽️ Culinary Passion: completing courses and diplomas in gastronomy to refine my cooking skills.<br>
 - 🧙‍♂️ Gaming: especially World of Warcraft — where I’ll always pick mages and warlocks, because who doesn’t love a little magic?<br>
 </h3>
 
