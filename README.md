@@ -1,14 +1,14 @@
 <h3 align="left">
 # Hi, I'm Jonathan Manuel Llanos Ruiz, but you can call me Tathan Llanos!<br><br>
 ## About Me<br>
-I'm a technologist in software analysis and development, and in the supervision of electrical distribution networks. I'm also a passionate autodidact, constantly seeking to learn new things (including how to cook the best gourmet pasta dish!).<br><br>
+I'm a Systems Engineer with solid experience in software development and data analysis. I'm a passionate autodidact, constantly seeking to learn new things (including how to cook the best gourmet pasta dish!).<br><br>
 ## What I Do<br>
-- 💻 Software development: I'm that guy who speaks in code that looks like ancient scripts.<br>
-- 🔌 Supervision of electrical networks: I keep the lights on, no blackout here!<br>
+- 💻 Software development: building web applications and solutions tailored to business needs.<br>
+- 📊 Data analysis: transforming data into valuable insights for decision-making.<br>
 - 🍽️ Courses and diplomas in gastronomy: mastering the art of culinary creation.<br>
 - 📚 Customer service and administration: because being a multitasker is my strength.<br><br>
 ## Projects<br>
-I thrive on exploring new areas, from developing a web app for local businesses to perfecting a signature pasta dish in gastronomy courses. I'm constantly seeking new challenges.<br><br>
+I thrive on exploring new areas, from developing a web app for local businesses to creating dashboards for data visualization. I'm constantly seeking new challenges.<br><br>
 ## Interests<br>
 - ✈️ Traveling and discovering new places: I have more frequent flyer miles than a pilot!<br>
 - 🌍 Exploring local culture: diving into authentic community experiences.<br>
